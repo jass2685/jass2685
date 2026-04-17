@@ -1,16 +1,20 @@
-## Hi there 👋
+# Hi, I'm Jaspreet Kaur 👋
 
-<!--
-**jass2685/jass2685** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Computer Science Student (2027)  
+💻 Aspiring Developer & Open Source Enthusiast  
+🌱 Currently learning Web Development & AI  
+🤝 Passionate about teamwork, leadership, and community building  
 
-Here are some ideas to get you started:
+## 🚀 Projects
+- Aid Grid Disaster Management System  
+- Retail Billing System (Python)  
+- Hotel Booking AI System  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔧 Skills
+- HTML, CSS, JavaScript  
+- Python  
+- Problem Solving  
+- Team Leadership  
+
+## 🌐 Connect with me
+- LinkedIn: (https://www.linkedin.com/in/jaspreet-kaur-a75a89324/)
