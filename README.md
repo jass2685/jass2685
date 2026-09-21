@@ -6,7 +6,7 @@
 - Passionate about teamwork, leadership, and community building 
 
 ## Connect with me:
-- LinkedIn: (https://www.linkedin.com/in/jaspreet-kaur-a75a89324/)
+- LinkedIn: www.linkedin.com/in/jaspreet-kaur1026
 - jassmultani176@gmail.com  
 
 ## 🔧 Languages and tools:
