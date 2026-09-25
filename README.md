@@ -16,6 +16,13 @@
 
 ## 👨‍💻 Coding Profiles 
 
+<h2>👨‍💻 Coding Profiles & Stats</h2>
+
 <p align="center">
-  <img src="https://leetcard.jacoblin.cool/jass_26?theme=dark" alt="LeetCode Stats" />
+  <a href="https://leetcode.com/u/jass_26/" target="_blank">
+    <img 
+      src="https://leetcard.jacoblin.cool/jass_26?theme=dark" 
+      alt="LeetCode Stats"
+    />
+  </a>
 </p>
