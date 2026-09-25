@@ -14,9 +14,7 @@
 - Html/CSS/JS
 - Git/Github  
 
-## 👨‍💻 Coding Profiles 
-
-<h2>👨‍💻 Coding Profiles & Stats</h2>
+<h2>👨‍💻 Coding Profile </h2>
 
 <p align="center">
   <a href="https://leetcode.com/u/jass_26/" target="_blank">
